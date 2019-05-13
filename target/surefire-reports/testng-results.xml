@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="6152" started-at="2019-03-07T20:22:55Z" finished-at="2019-03-07T20:23:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6152" started-at="2019-03-07T20:22:55Z" finished-at="2019-03-07T20:23:01Z">
+      <class name="selenium.AppiumTest">
+        <test-method status="PASS" signature="myAppiumtest()[pri:0, instance:selenium.AppiumTest@6cd8737]" name="myAppiumtest" duration-ms="24" started-at="2019-03-07T20:22:55Z" finished-at="2019-03-07T20:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAppiumtest -->
+      </class> <!-- selenium.AppiumTest -->
+      <class name="selenium.seleniumTest">
+        <test-method status="PASS" signature="myseleniumtest()[pri:0, instance:selenium.seleniumTest@13969fbe]" name="myseleniumtest" duration-ms="6016" started-at="2019-03-07T20:22:55Z" finished-at="2019-03-07T20:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myseleniumtest -->
+      </class> <!-- selenium.seleniumTest -->
+      <class name="selenium.RestApiTest">
+        <test-method status="PASS" signature="myRestApitest()[pri:0, instance:selenium.RestApiTest@22f71333]" name="myRestApitest" duration-ms="0" started-at="2019-03-07T20:22:55Z" finished-at="2019-03-07T20:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myRestApitest -->
+      </class> <!-- selenium.RestApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

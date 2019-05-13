@@ -1,0 +1,9 @@
+excelDataDriven\callUtility.class
+excelDataDriven\utilityExcel.class
+pom_pattern\rediffloginPage.class
+pom_pattern\usingRediffPages.class
+selenium\RestApiTest.class
+pom_pattern\browserPage.class
+pom_pattern\rediffPageObjectFactory.class
+selenium\AppiumTest.class
+selenium\seleniumTest.class
